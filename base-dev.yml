@@ -22,3 +22,5 @@ eureka:
   instance:
     #跨服务器访问
     prefer‐ip‐address: true 
+rabbitmq:
+	host: 192.168.184.135
